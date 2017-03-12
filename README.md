@@ -15,4 +15,4 @@ plugins:
   - serverless-dotenv
 ```
 
-That's it. It will load all the environment variables in the `.env` file to the Lambda functions when deployed.
+That's it. It will load all `.env` file's environment varibles into the Lambda functions when deployed.
