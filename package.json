@@ -1,1 +1,14 @@
-{"name":"serverless-dotenv","description":"","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"","license":"ISC","devDependencies":{"dotenv":"^4.0.0","npm-prepublish":"^1.2.2"}}
+{
+	"name": "serverless-dotenv",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"dotenv": "^4.0.0",
+		"npm-prepublish": "^1.2.2"
+	}
+}
